@@ -1,0 +1,11 @@
+p{
+    font-size: 15px;
+}
+h2{
+    border: 2px solid black
+}
+.bottom{
+    margin-top: 40px;
+    position:fixed;
+    bottom:0;
+}
